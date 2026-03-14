@@ -1,0 +1,9 @@
+venv/
+mlruns/
+mlflow.db
+__pycache__/
+*.pyc
+.python-version
+pyproject.toml
+main.py
+requirements.txt
